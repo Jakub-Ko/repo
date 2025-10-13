@@ -1,0 +1,17 @@
+D:\AiSD-2\AiSD-2\bin\Debug\net6.0-windows\AiSD-2.exe
+D:\AiSD-2\AiSD-2\bin\Debug\net6.0-windows\AiSD-2.deps.json
+D:\AiSD-2\AiSD-2\bin\Debug\net6.0-windows\AiSD-2.runtimeconfig.json
+D:\AiSD-2\AiSD-2\bin\Debug\net6.0-windows\AiSD-2.dll
+D:\AiSD-2\AiSD-2\bin\Debug\net6.0-windows\AiSD-2.pdb
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.csproj.AssemblyReference.cache
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD_2.Form1.resources
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.csproj.GenerateResource.cache
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.AssemblyInfoInputs.cache
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.AssemblyInfo.cs
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.csproj.CoreCompileInputs.cache
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.dll
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\refint\AiSD-2.dll
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.pdb
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\AiSD-2.genruntimeconfig.cache
+D:\AiSD-2\AiSD-2\obj\Debug\net6.0-windows\ref\AiSD-2.dll

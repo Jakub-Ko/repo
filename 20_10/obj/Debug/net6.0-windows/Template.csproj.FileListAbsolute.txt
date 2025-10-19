@@ -1,0 +1,16 @@
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\bin\Debug\net6.0-windows\Template.exe
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\bin\Debug\net6.0-windows\Template.deps.json
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\bin\Debug\net6.0-windows\Template.runtimeconfig.json
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\bin\Debug\net6.0-windows\Template.dll
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\bin\Debug\net6.0-windows\Template.pdb
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.Form1.resources
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.csproj.GenerateResource.cache
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.AssemblyInfoInputs.cache
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.AssemblyInfo.cs
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.csproj.CoreCompileInputs.cache
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.dll
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\refint\Template.dll
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.pdb
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\Template.genruntimeconfig.cache
+C:\Users\Fenrir\Desktop\New folder (2)\20_10\obj\Debug\net6.0-windows\ref\Template.dll

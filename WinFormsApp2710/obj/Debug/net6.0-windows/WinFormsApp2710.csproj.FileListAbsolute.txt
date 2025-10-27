@@ -1,0 +1,17 @@
+D:\AiSD-2\WinFormsApp2710\bin\Debug\net6.0-windows\WinFormsApp2710.exe
+D:\AiSD-2\WinFormsApp2710\bin\Debug\net6.0-windows\WinFormsApp2710.deps.json
+D:\AiSD-2\WinFormsApp2710\bin\Debug\net6.0-windows\WinFormsApp2710.runtimeconfig.json
+D:\AiSD-2\WinFormsApp2710\bin\Debug\net6.0-windows\WinFormsApp2710.dll
+D:\AiSD-2\WinFormsApp2710\bin\Debug\net6.0-windows\WinFormsApp2710.pdb
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.csproj.AssemblyReference.cache
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.Form1.resources
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.csproj.GenerateResource.cache
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.AssemblyInfoInputs.cache
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.AssemblyInfo.cs
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.csproj.CoreCompileInputs.cache
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.dll
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\refint\WinFormsApp2710.dll
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.pdb
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\WinFormsApp2710.genruntimeconfig.cache
+D:\AiSD-2\WinFormsApp2710\obj\Debug\net6.0-windows\ref\WinFormsApp2710.dll

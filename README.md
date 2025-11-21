@@ -10,7 +10,13 @@ lab5: [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_prz
 
 lab6: Sortowanie (7) [Sortowanie przez zliczanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_zliczanie)
 
-kol1:
+lab7: ...
+
+lab8:
+
+lab9:
+
+lab10: kol1
 1.[Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)
 2.[Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
 3.[Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)

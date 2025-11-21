@@ -1,0 +1,17 @@
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\bin\Debug\net6.0-windows\WinFormsApp2111.exe
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\bin\Debug\net6.0-windows\WinFormsApp2111.deps.json
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\bin\Debug\net6.0-windows\WinFormsApp2111.runtimeconfig.json
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\bin\Debug\net6.0-windows\WinFormsApp2111.dll
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\bin\Debug\net6.0-windows\WinFormsApp2111.pdb
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.csproj.AssemblyReference.cache
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.Form1.resources
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.csproj.GenerateResource.cache
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.AssemblyInfoInputs.cache
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.AssemblyInfo.cs
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.csproj.CoreCompileInputs.cache
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.dll
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\refint\WinFormsApp2111.dll
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.pdb
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\WinFormsApp2111.genruntimeconfig.cache
+D:\Ai\WinFormsApp2111\WinFormsApp2111\WinFormsApp2111\obj\Debug\net6.0-windows\ref\WinFormsApp2111.dll

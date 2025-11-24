@@ -1,0 +1,17 @@
+D:\AiSD-2\app\sortkop\bin\Debug\net6.0-windows\sortkop.exe
+D:\AiSD-2\app\sortkop\bin\Debug\net6.0-windows\sortkop.deps.json
+D:\AiSD-2\app\sortkop\bin\Debug\net6.0-windows\sortkop.runtimeconfig.json
+D:\AiSD-2\app\sortkop\bin\Debug\net6.0-windows\sortkop.dll
+D:\AiSD-2\app\sortkop\bin\Debug\net6.0-windows\sortkop.pdb
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.csproj.AssemblyReference.cache
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.Form1.resources
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.csproj.GenerateResource.cache
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.AssemblyInfoInputs.cache
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.AssemblyInfo.cs
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.csproj.CoreCompileInputs.cache
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.dll
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\refint\sortkop.dll
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.pdb
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\sortkop.genruntimeconfig.cache
+D:\AiSD-2\app\sortkop\obj\Debug\net6.0-windows\ref\sortkop.dll

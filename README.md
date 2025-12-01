@@ -14,7 +14,7 @@ lab7: sort prawie kopcowanie (x >= rodzic na prawo)
 
 lab8: sortkop2
 
-lab9: ?
+lab9: wieksze na prawo mniejsze na lewo v3
 
 lab10: kol1
 1.[Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)

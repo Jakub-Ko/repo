@@ -24,3 +24,7 @@ lab10: kol1
 5.[Sortowanie przez kopcowanie](pl.wikipedia.org/wiki/Sortowanie_przez_kopcowanie)
 6.[Sortowanie szybkie](https://pl.wikipedia.org/wiki/Sortowanie_szybkie)
 7.[Sortowanie przez zliczanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_zliczanie)
+
+lab11: ...
+
+lab?: np. kol2: napisz rotacje w prawo na drzewie dst

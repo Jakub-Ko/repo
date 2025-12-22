@@ -13,12 +13,12 @@ namespace WinFormsApp0112
         public Drzewo(int[] lis)
         {
             korzen = new Wezel(lis.FirstOrDefault());
-            for (int i = 1; i > lis.Length; i++)
+            for (int i = 1; i < lis.Length; i++)
             {
                 Wezel wez = korzen;
                 while(true)
                 {
-                    if(wez.wartosc >= lis[i])
+                    if(wez.wartosc < lis[i])
                     {
                         if (wez.prawe is not null)
                         {
@@ -91,11 +91,66 @@ namespace WinFormsApp0112
             return wartosc;
         }
 
+        public void ObrotLewo(Wezel wez)
+        {
+            if(wez == korzen || wez.rodzic is null)
+            {
+                return;
+            }
+            if(wez.rodzic == korzen)
+            {
+                korzen = wez;
+            }
+            Wezel rdzen = wez.rodzic;
+            if(rdzen.prawe != wez)
+            {
+                throw new NotImplementedException("ERROR w Obrot...: rdzen.prawe != wez");
+                /*return;*/
+            }
+            if(wez.lewe is not null)
+            {
+                rdzen.prawe = wez.lewe;
+                wez.lewe.rodzic = rdzen;
+            }
+            wez.lewe = rdzen;
+            wez.rodzic = rdzen.rodzic;
+            if(rdzen.rodzic is not null)
+            {
+                if(rdzen.rodzic.lewe == rdzen)
+                {
+                    rdzen.rodzic.lewe = wez;
+                    wez.rodzic = rdzen.rodzic;
+                }
+                else
+                {
+                    rdzen.rodzic.prawe = wez;
+                    wez.rodzic = rdzen.rodzic;
+                }
+            }
+            rdzen.rodzic = wez;
+        }
+
+        private String ToVals(Wezel wez)
+        {
+            if(wez.lewe is not null)
+            {
+                if (wez.prawe is not null)
+                {
+                    return wez.wartosc.ToString() + " (L-" + ToVals(wez.lewe) + " P-" + ToVals(wez.prawe) + ")";
+                }
+                return wez.wartosc.ToString() + " (L-" + ToVals(wez.lewe) + ")";
+            }
+            if(wez.prawe is not null)
+            {
+                return wez.wartosc.ToString() + " (P-" + ToVals(wez.prawe) + ")";
+            }
+            return wez.wartosc.ToString();
+        }
+
         override
         public String ToString()
         {
-            String txt = "";
-            txt += UsunNajm().ToString() + " ";
+            String txt = ToVals(korzen);
             return txt;
         }
     }

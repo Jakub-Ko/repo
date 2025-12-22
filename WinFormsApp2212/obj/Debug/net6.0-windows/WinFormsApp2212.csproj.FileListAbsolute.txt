@@ -1,0 +1,17 @@
+D:\AiSD-2\app\WinFormsApp2212\bin\Debug\net6.0-windows\WinFormsApp2212.exe
+D:\AiSD-2\app\WinFormsApp2212\bin\Debug\net6.0-windows\WinFormsApp2212.deps.json
+D:\AiSD-2\app\WinFormsApp2212\bin\Debug\net6.0-windows\WinFormsApp2212.runtimeconfig.json
+D:\AiSD-2\app\WinFormsApp2212\bin\Debug\net6.0-windows\WinFormsApp2212.dll
+D:\AiSD-2\app\WinFormsApp2212\bin\Debug\net6.0-windows\WinFormsApp2212.pdb
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.csproj.AssemblyReference.cache
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.Form1.resources
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.csproj.GenerateResource.cache
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.AssemblyInfoInputs.cache
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.AssemblyInfo.cs
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.csproj.CoreCompileInputs.cache
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.dll
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\refint\WinFormsApp2212.dll
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.pdb
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\WinFormsApp2212.genruntimeconfig.cache
+D:\AiSD-2\app\WinFormsApp2212\obj\Debug\net6.0-windows\ref\WinFormsApp2212.dll

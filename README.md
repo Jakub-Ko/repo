@@ -25,6 +25,10 @@ lab10: kol1
 6.[Sortowanie szybkie](https://pl.wikipedia.org/wiki/Sortowanie_szybkie)
 7.[Sortowanie przez zliczanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_zliczanie)
 
-lab11: ...
+lab11: bst zigzag [Rotacja drzewa](https://pl.wikipedia.org/wiki/Rotacja_drzewa)
 
-lab?: np. kol2: napisz rotacje w prawo na drzewie dst
+lab12: [Algorytm Kruskala](https://pl.wikipedia.org/wiki/Algorytm_Kruskala)
+
+lab13: ?
+
+lab14?: kol2: napisz rotacje w prawo na drzewie dst

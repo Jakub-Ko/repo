@@ -40,4 +40,6 @@ S = {0, 1, 4, 2, 5, 3}
 
 lab14: kol2: lista bst programistycznie... (np. napisz rotacje w prawo na drzewie dst)
 
+dostaniesz kod i np. tylko fragment kodu czyli petle np. czyli tabelka albo napis dodawanie do drzewa bst albo napisz usuwanie do drzewa bst albo napisz zigzag rotacja lewo prawo
+
 lab15: poprawa

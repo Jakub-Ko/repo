@@ -33,6 +33,9 @@ lab13: Graf najkrótsza ścieżka [BFS tree](https://pl.wikipedia.org/wiki/Przes
 u 0 1 2 3 4 5
 d 0 3 4 6 3 5
 P -1 0 1 5 0 4
+d tymczasowo np. int.max()
+p tymczasowo -1
 S = {0, 1, 4, 2, 5, 3}
+1.0-3-1 2.1-1-2 3.2-3-3 4.3-3-1 5.0-3-4 6.4-2-5 7.5-6-0 8.5-1-3 9.2-1-5
 
 lab14?: kol2: napisz rotacje w prawo na drzewie dst

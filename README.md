@@ -29,7 +29,7 @@ lab11: bst zigzag [Rotacja drzewa](https://pl.wikipedia.org/wiki/Rotacja_drzewa)
 
 lab12: [Algorytm Kruskala](https://pl.wikipedia.org/wiki/Algorytm_Kruskala)
 
-lab13: Graf najkrótsza ścieżka [BFS tree](https://pl.wikipedia.org/wiki/Przeszukiwanie_wszerz)
+lab13: Graf najkrótsza ścieżka [BFS tree](https://pl.wikipedia.org/wiki/Przeszukiwanie_wszerz)?
 u 0 1 2 3 4 5
 d 0 3 4 6 3 5
 P -1 0 1 5 0 4

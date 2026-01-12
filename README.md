@@ -38,6 +38,6 @@ p tymczasowo -1
 S = {0, 1, 4, 2, 5, 3}
 1.0-3-1 2.1-1-2 3.2-3-3 4.3-3-1 5.0-3-4 6.4-2-5 7.5-6-0 8.5-1-3 9.2-1-5
 
-lab14: kol2: napisz rotacje w prawo na drzewie dst
+lab14: kol2: lista bst programistycznie... (np. napisz rotacje w prawo na drzewie dst)
 
 lab15: poprawa
